@@ -2,6 +2,7 @@
   "name": "react-learning",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://Beachei.github.io/React-Movie-App/",
   "type": "module",
   "scripts": {
     "dev": "vite",
